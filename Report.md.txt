@@ -1,0 +1,19 @@
+# REAL SIEM ALERTS – SOC101
+
+## Introduction
+This section covers the analysis of phishing alerts detected by a SIEM system as part of a SOC analyst workflow.
+
+## Alert Overview
+- Alert Name: SOC101 – Phishing Mail Detected
+- Severity: Low
+- Source System: Exchange
+- Alert Type: Email Phishing
+
+## Investigation Summary
+Multiple phishing alerts were detected over a period of several months. Although classified as low severity, phishing alerts require investigation to prevent potential compromise.
+
+## Initial Findings
+The alerts indicate potential malicious emails attempting to deceive users into clicking malicious links or providing sensitive information.
+
+## Next Steps
+Further analysis will include email header inspection, IOC extraction, and correlation with network traffic.
